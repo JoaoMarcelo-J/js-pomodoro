@@ -24,6 +24,8 @@
 <br>
 <br>
 
+<hr>
+
 <img src='./img/pomo-img.png' align='left'>
 <img src='./img/pomo2-img.png' align='right'>
 
