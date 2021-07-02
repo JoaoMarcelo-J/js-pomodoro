@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pomodoro</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="main">
+      <div class="pomo-container">
+        <div class="turns">1/4</div>
+
+        <div class="time-container">
+          <svg width="200" height="200" class="circle-container">
+            <circle class="background-circle" />
+            <circle class="circle" />
+          </svg>
+          <div class="time">88:88</div>
+        </div>
+
+        <div class="time-mode">Estudo</div>
+
+        <div>
+          <button class="timer-control">Iniciar</button>
+          <button class="reset-button">Reiniciar</button>
+        </div>
+      </div>
+    </div>
+
+    <audio id="notification">
+      <source src="notification.mp3" />
+    </audio>
+
+    <script src="scripts.js"></script>
+  </body>
+</html>
