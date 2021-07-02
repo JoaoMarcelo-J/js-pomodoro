@@ -24,7 +24,7 @@ function startValues() {
   isRunning = false;
   isBreakTime = false;
   workTime = 25 * 60;
-  BreakTime = 5 % 60;
+  BreakTime = 5 * 60;
   longBreakTime = 15 * 60;
   totalTurns = 4;
   currentTurn = 1;
