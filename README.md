@@ -23,6 +23,17 @@
 
 <br>
 
+> ## ❤️ Lastly
+
+ <p>This is the second repository belonging to a "series" with the purpose of practicing programming logic. If you want to check the other repositories belonging to this "series": </p>
+
+<ul>
+<li><a href='https://github.com/JoaoMarcelo-J/tictactoe-game'>Tic Tac Toe</a></li>
+<li><a href='https://github.com/JoaoMarcelo-J/memory-game'>Memory Game</a></li>
+</ul>
+
+<br>
+
 <hr>
 
 <img src='./img/pomo-img.png' align='left'>
